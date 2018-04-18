@@ -38,7 +38,7 @@ button {
 
 <script>
 
-chart("d3_data_streamgraph_processed.csv", "project");
+chart("d3_data_streamgraph.csv", "project");
 
 var datearray = [];
 var colorrange = [];
@@ -56,7 +56,7 @@ else if (color == "orange") {
   colorrange = ["#B30000", "#E34A33", "#FC8D59", "#FDBB84", "#FDD49E", "#FEF0D9"];
 }
 else if (color == "project") {
-  colorrange = d3.scale.category10();
+  colorrange = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#7f7f7f", "#8c564b"];
 }
 strokecolor = colorrange[0];
 
@@ -87,7 +87,7 @@ var z = d3.scale.ordinal()
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom")
-    .ticks(d3.time.weeks);
+    .ticks(d3.time.year);
 
 var yAxis = d3.svg.axis()
     .scale(y);
