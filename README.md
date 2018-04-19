@@ -1,5 +1,5 @@
 # Data Visualization
-Author: [Cara Qin](www.linkedin.com/in/caraqin/), [Yu Tian](www.linkedin.com/in/yutian1)
+Author: [Cara Qin](http://www.linkedin.com/in/caraqin/), [Yu Tian](http://www.linkedin.com/in/yutian1)
 
 
 
