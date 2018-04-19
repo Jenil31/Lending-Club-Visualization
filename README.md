@@ -1,3 +1,14 @@
+# Data Visualization
+Author: [Cara Qin](https://github.com/carayangqin), [Yu Tian](https://github.com/ytian22)
+
+
+
+
+
+
+
+## HTML5 Templates Info
+
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
