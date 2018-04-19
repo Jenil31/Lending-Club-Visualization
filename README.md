@@ -7,7 +7,7 @@ Author: [Cara Qin](https://github.com/carayangqin), [Yu Tian](https://github.com
 
 
 
-## HTML5 Templates Info
+#### HTML5 Templates Info
 
 Directive by HTML5 UP
 html5up.net | @ajlkn
