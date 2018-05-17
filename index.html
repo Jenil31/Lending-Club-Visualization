@@ -31,6 +31,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
+						  <li><a href="#intro">Introduction</a></li>
 							<li><a href="#first">First Section</a></li>
 							<li><a href="#second">Second Section</a></li>
 							<li><a href="#third">Third Section</a></li>
@@ -40,6 +41,43 @@
 
 				<!-- Main -->
 					<div id="main">
+					  <!-- Introduction -->
+							<section id="intro" class="main special">
+								<header class="major">
+									<h2>Introduction</h2>
+								</header>
+                
+                <div class="box alt container">
+                  <section class="feature left">
+                    <h3>Background and Motivation</h3>
+           						<div align="left">
+           						<p>We choose loan data because both of us are interested in working in FinTech industry. Learning more about what loan data looks like and how to get insights from loan data can prepare us to answer possible interview questions and help us understand financial data better.</p>
+           						</div>
+           						
+           					<h3>Project Objectives</h3>
+           						<div align="left">
+           						<p>Loan risk is always a topic that financial industry cares about and a field where state-of-the-art technology can be applied to innovate new approaches to help the company get more control. </p>
+           						<p>We would like to make the data visualization with the techniques learned from this class to demonstrate the loan data in an inspiring way and thus communicate with non-technical people more efficiently. </p>
+           						</div>
+           					<h3>Data</h3>
+           						<div align="left">
+           						<p>We collected the data from Kaggle Datasets, as it has cleaned data and thus easier for building visualizations. The data is Lending Club Loan Data and can be found at <a href="https://www.kaggle.com/wendykan/lending-club-loan-data/data">here</a>. </p>
+           						<p>This dataset consists of 75 variables, including numerical variables and many categorical variables with a range of unique cardinality from 3 to 30. It makes our work easier because the data is rich and we won’t be limited by the data types of those columns. </p>
+           						</div>
+           						
+           					<h3>Data Processing</h3>
+           						<div align="left">
+           						<p>An apparent problem is there are many null values for a few columns. We might consider dropping them as due to the specialty of this topic, it is totally reasonable for those missing values to exist. Because there are 75 variables, dropping some will not affect the data diversity. </p>
+           						<p>Meanwhile, we will need to parse the column “issue date” into “year” and “month” date format, because time is a very important factor for this dataset and we would like our visualization show how the loan conditions being affected by time. </p>
+           						</div>
+		  </section>
+                </div>
+                
+								<footer class="major">
+
+								</footer>
+							</section>	
+					  
 
 						<!-- First Section -->
 							<section id="first" class="main special">
