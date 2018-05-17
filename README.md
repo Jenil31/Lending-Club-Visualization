@@ -8,7 +8,7 @@ All code in Jupyter Notebook format can be found from `Code` folder.
 All website files and libraries can be found from `Code/website_files` folder.
 
 ## Presentation Slides
-We used slides for Beta Release presentation, which can be found from `Presentation Slides` folder.
+We used slides for Beta Release presentation, which can be found from `Presentation_Slides` folder.
 
 ## Updated Website
 The website is at https://ytian22.github.io/.
