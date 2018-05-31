@@ -11,7 +11,7 @@ All website files and libraries can be found from `Code/website_files` folder.
 We used slides for Beta Release presentation, which can be found from `Presentation_Slides` folder.
 
 ## Updated Website
-The website is at https://ytian22.github.io/.
+The website is at https://ytian22.github.io/Lending-Club-Visualization/.
 
 ## Video
 https://drive.google.com/file/d/1qHMJM34VsDplz7N9sgGr04Xu5fdbWrK1/view?usp=sharing
